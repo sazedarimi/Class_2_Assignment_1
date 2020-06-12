@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    background-color: #fff;
+    padding: 0; margin: 0;
+}
+.container{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{
+    border-bottom: 1px solid #eaeaea;
+}
+.logo img{ padding-left: 490px;
+    padding-top: 10px;
+    margin: auto;
+    width: 100px;
+    padding-bottom: 10px;
+   
+
+}
+.container h1{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+.clr1{
+ color: #4b7eda;
+}
+.clr2{color: #f33a3f;}
+.clr3{
+    color: #3e9c5e;
+}
+.clr4{
+    color: #eeb600;
+}
+.banner{text-align: center;}
+.banner img{
+    width: 1100px;
+}
+
+h1.topic { 
+    text-align: left;
+    font-size: 50px;
+    color: #313133;
+    width: 350px;
+}
+.para{
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    color: #989a99;
+}
+.box{ 
+    font-size: 24px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    height: 200px;
+    background-color: #0ba26d;
+}
+.box h2{
+    padding-left: 400px;
+    padding-top: 50px;
+    color: #f5fffd;
+}
+.box span{
+    padding-left: 70px;
+}
